@@ -23,3 +23,7 @@ should be easy enough (famous last words)
 Welcome to the very beginning of Mr. Bones wild ride. I am doing this project as a means 
 of relaxing while finishing by Bc. degree, so this is purely free-time-once-a-week-maybe 
 kind of thing
+## Honorable mentions, couldn't do it without you guys
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+- [Plate and case builder swillkb](http://builder.swillkb.com/)
+- [Detailed guide to making a custom keyboard by u/pdqp](https://www.reddit.com/r/MechanicalKeyboards/comments/4l0p41/guide_detailed_guide_to_making_a_custom_keyboard/)
