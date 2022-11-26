@@ -24,7 +24,8 @@ Welcome to the very beginning of Mr. Bones wild ride. I am doing this project as
 of relaxing while finishing by Bc. degree, so this is purely free-time-once-a-week-maybe 
 kind of thing. Honestly I think I want this to be somewhat similar to the Ultimate 
 Hacking Keyboard, just with more keys. I'm not sure if I'd prefer 75 or 65, guess I'll 
-have to build 65 keyboard next.
+have to build 65 keyboard next.<br>
+I'm currently being distractedy by lubing switches. Uh oh.
 ## Honorable mentions, couldn't do it without you guys
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 - [Plate and case builder swillkb](http://builder.swillkb.com/)
